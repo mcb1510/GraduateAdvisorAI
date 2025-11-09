@@ -1,0 +1,33 @@
+# .gitignore - Files to NOT commit to GitHub
+# These files contain sensitive info or are auto-generated
+
+# ========== SENSITIVE FILES ==========
+# Environment variables (contains your API token!)
+# NEVER commit this - it has your secret token
+.env
+
+# ========== PYTHON GENERATED FILES ==========
+# Python cache files - auto-generated, don't need in Git
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ========== STREAMLIT FILES ==========
+# Streamlit config and cache
+.streamlit/
+
+# ========== OPERATING SYSTEM FILES ==========
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# ========== FUTURE RAG FILES ==========
+# When you add RAG later, these will be large database files
+*.pkl
+*.faiss
+
+older_version/
+data/
