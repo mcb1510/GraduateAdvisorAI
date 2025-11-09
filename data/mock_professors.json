@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Dr. Jun Zhuang",
+    "areas": ["Artificial Intelligence", "Machine Learning", "Human-Centered Computing"],
+    "availability": "Spring 2026"
+  },
+  {
+    "name": "Dr. Gaby Dagher",
+    "areas": ["Cybersecurity", "Privacy", "Blockchain"],
+    "availability": "Fall 2025"
+  },
+  {
+    "name": "Dr. Jerry Alan Fails",
+    "areas": ["HCI", "CS Education", "Child-Computer Interaction"],
+    "availability": "Open Now"
+  },
+  {
+    "name": "Dr. Elisa Barney Smith",
+    "areas": ["Computer Vision", "Pattern Recognition"],
+    "availability": "Spring 2026"
+  },
+  {
+    "name": "Dr. Hoda Mehrpouyan",
+    "areas": ["AI Ethics", "Sustainability", "Systems Engineering"],
+    "availability": "Not taking students currently"
+  }
+]
